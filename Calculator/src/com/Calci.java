@@ -8,4 +8,8 @@ public class Calci {
     public void m2() {
 		System.out.println("Substraction");
 	}
+
+	public void m3() {
+		System.out.println("Multiplication");
+	}
 }
