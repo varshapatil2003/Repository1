@@ -16,5 +16,9 @@ public class Calci {
 	public void m4() {
 		System.out.println("division");
 	}
+
+	public void m5() {
+		System.out.println("Modulus");
+	}
 }
 
