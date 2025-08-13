@@ -12,4 +12,9 @@ public class Calci {
 	public void m3() {
 		System.out.println("Multiplication");
 	}
+
+	public void m4() {
+		System.out.println("division");
+	}
 }
+
